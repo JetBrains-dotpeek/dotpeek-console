@@ -49,7 +49,7 @@ Next, issue some commands like:
 
 If you wish to just install a copy of the plugins without building yourself:
 
-- Download the latest zip file: [Console-1.0.zip](https://github.com//JetBrains-dotpeek/dotpeek-console/archive/refs/heads/main.zip)
+- Download the latest zip file: [dotpeek-Console-1.0.zip](https://github.com//JetBrains-dotpeek/dotpeek-console/archive/refs/heads/main.zip)
 
 - Extract everything
 - Run the appropriate batch file for your version of dotPeek, e.g. Install-Console.1.0.bat for dotPeek 1.0, or Install-Console.1.1.bat for dotPeek 1.1, or Install-Console.1.2.bat for dotPeek 1.2.
